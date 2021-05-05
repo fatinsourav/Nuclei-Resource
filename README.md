@@ -9,5 +9,5 @@ This repository contains the popular Nuclei resources.
 -https://www.youtube.com/watch?v=KNM9oNPYikY by Hacking Simplified
 
 <h1>Thanks</h1>
--projectdiscoveryio
--Ashem Shrey
+ projectdiscoveryio
+ Ashem Shrey
